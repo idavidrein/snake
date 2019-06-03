@@ -1,0 +1,13 @@
+{
+    "env": "CartPole-v0",
+    "hid": 32,
+    "l": 1,
+    "lr": 0.01,
+    "gamma": 0.99,
+    "seed": 10,
+    "batch": 10,
+    "eps": 300,
+    "lam": 0.95,
+    "save": "",
+    "exp_name": "log1"
+}
